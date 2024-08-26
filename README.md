@@ -47,7 +47,7 @@
 
 Clone this repository and run the script on your Linux system:
 
-# bash
+''' bash
 git clone https://github.com/Hellal1997/linux.admin.gui.git
 cd Linux-Admin-GUI
 chmod +x *
