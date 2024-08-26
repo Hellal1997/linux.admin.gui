@@ -47,7 +47,7 @@
 
 Clone this repository and run the script on your Linux system:
 
-```bash
+# bash
 git clone https://github.com/Hellal1997/linux.admin.gui.git
 cd Linux-Admin-GUI
 chmod +x *
@@ -56,4 +56,5 @@ chmod +x *
 # Usage
 Follow the on-screen prompts to manage users and groups efficiently. The menu-driven interface guides you through each step, ensuring a smooth and error-free experience.
 
-![mainmenu1](https://github.com/user-attachments/assets/4a569a1b-2b06-4bd0-a432-a31523fc628a)
+![mainmenu1](https://github.com/Hellal1997/linux.admin.gui/blob/52ed33a854143c7479f9c2cd9c246c3952e4b17f/attachments/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png)
+
